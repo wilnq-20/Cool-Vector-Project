@@ -1,0 +1,7 @@
+append a 2
+append b 4
+append a 6
+append a 8
+append b 10
+get a 2
+get b 1

@@ -1,0 +1,9 @@
+append a 10
+append a 20
+append a 30
+append a 40
+insert a 0 5
+insert a 1 15
+insert a 2 25
+insert b 0 a
+insert b 2 a

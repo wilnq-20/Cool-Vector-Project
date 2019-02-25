@@ -1,0 +1,7 @@
+append a 10
+append a 20
+append a 30
+append a 40
+append b -2
+append b a
+append a b

@@ -1,0 +1,31 @@
+append a 10
+append a 20
+append a 30
+append a 40
+append b 5
+append b 15
+append b 25
+prepend a 4
+prepend a -5
+prepend b a
+prepend a b
+remove a 3
+remove b 3
+remove a 2 10
+insert a 0 3
+insert a 1 4
+insert a 0 9
+insert a 2 10
+clear b
+clear a
+append a 10
+append a 20
+append a 30
+append a 40
+append a 50
+append a 60
+append a 70
+append a 80
+slice a 2 4 b
+slice a 0 6 b
+slice b 1 4 a
